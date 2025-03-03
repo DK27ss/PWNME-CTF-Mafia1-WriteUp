@@ -10,7 +10,7 @@ So I start by `filtering` out interesting frames using only the `IRC` protocol, 
 
 ![mafia1_irc2](https://github.com/user-attachments/assets/cac38ee0-75d3-4033-a887-6169a88f8f60)
 
-while checking the content of messages exchanged on `IRC (Internet Relay Chat)` I came across an interesting capture referring to an `smart contract address`
+while checking the content of messages exchanged on `IRC (Internet Relay Chat)` I came across an interesting capture referring to an `smart contract address` `https://sepolia.etherscan.io/tx/0x2a1133ebd2476d670b2b1668f7db32774e02533b8ca9f2e1a98a9a67b9dd9165`
 
 ![mafia1_content1](https://github.com/user-attachments/assets/087f0bf5-3b12-4954-8ab9-8ad8dc792511)
 
