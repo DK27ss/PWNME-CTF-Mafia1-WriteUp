@@ -1,7 +1,7 @@
 # PWNME-CTF-Mafia1-WriteUp
 
 ## Overview
-During the first PWNME qualifications in this weekend (March 28 to 3), there were some pretty cool challenges. So I'm doing a write-up of some of them to deepen my skills and share my results with you.
+During the first PWNME qualifications in this weekend, there were some pretty cool challenges. So I'm doing a write-up of some of them to deepen my skills and share my results with you.
 In this first challenge we simply receive a wireshark capture file and we know that the data contained inside is the result of an exchange on a poorly-secured chat, allowing us to view the messages in clear text.
 
 ![mafia1_1](https://github.com/user-attachments/assets/eff59aa5-da6e-4dd6-b770-d6b166f5a676)
