@@ -16,7 +16,7 @@ while checking the content of messages exchanged on `IRC (Internet Relay Chat)` 
 
 taking into account the clue in the statement which clearly explains that the contract is deployed on the `sepolia chain`, I can then check the relevant information for this contract.
 
-At this point, by searching on sepolia.scan, we obtain the following information thanks to the `contract address`
+At this point, by searching on sepolia.etherscan.io, we obtain the following information thanks to the `contract address`
 
 ![mafia1_etherscan](https://github.com/user-attachments/assets/6681a2b3-8282-4b29-8541-86a44ba15820)
 
